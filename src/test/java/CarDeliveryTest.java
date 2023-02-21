@@ -33,12 +33,7 @@ public class CarDeliveryTest {
                 .shouldHave(exactText("Встреча успешно забронирована на " + currentDate));
 
 
-
-
-
-
     }
-
 
 
 }
